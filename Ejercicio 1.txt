@@ -1,2 +1,6 @@
 Primera línea de ejercicio1
+<<<<<<< HEAD
 Tercera linea de ejerccicio1
+=======
+Segunda linea del ejercicio 1
+>>>>>>> refs/remotes/origin/main
